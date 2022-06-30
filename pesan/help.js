@@ -377,6 +377,6 @@ return`*「 TOOLS MENU 」*
 き⃟🌊. ${prefix}liststik
 き⃟🌊. ${prefix}getstik
    
-© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
-*Ketik ${prefix}allmenu biar gak ribet xixi*`}
+© ASYRAF 6YOUU
+*Subs My Channel : ASYRAF 6YOUU*
+*Ketik ${prefix}allmenu biar gak ribet*`}
